@@ -3,6 +3,6 @@ node_modules/
 *.env*
 *.csv
 
-files/
+outputs/
 
 package-lock.json
